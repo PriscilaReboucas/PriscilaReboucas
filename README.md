@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! 😄
+
+Me chamo Priscila Rebouças moro no Brazil, eu venho atuando com desenvolvimento .net desde 2014 e atualmente eu sou Desenvolvedora Sr na Stefanini.
 
 <!--
 **PriscilaReboucas/PriscilaReboucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
