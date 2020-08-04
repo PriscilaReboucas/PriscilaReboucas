@@ -1,6 +1,6 @@
 ### Olá! 😄
 
-Me chamo Priscila Rebouças moro no Brasil (:brazil:), eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou Desenvolvedora Sr na Stefanini alocada na Agência de Fomento do Estado da Bahia (Desenbahia). :woman_technologist:
+Me chamo Priscila Rebouças moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou Desenvolvedora Sr na Stefanini alocada na Agência de Fomento do Estado da Bahia (Desenbahia). :woman_technologist:
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PriscilaReboucas/)](https://github.com/PriscilaReboucas/)
