@@ -1,13 +1,55 @@
-### Olá! 😄
 
-Me chamo Priscila Rebouças moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou Desenvolvedora Sr na Stefanini alocada na Agência de Fomento do Estado da Bahia (Desenbahia). :woman_technologist:
+<div align="center">
+  <h2 align="center">Olá  😄</h1>
+</div>
 
+<br/>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PriscilaReboucas/)](https://github.com/PriscilaReboucas/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-rebou%C3%A7as/)](https://www.linkedin.com/in/priscila-rebou%C3%A7as/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571988517896&text=Hello!)](https://api.whatsapp.com/send?phone=5571988517896&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilaresantos@gmail.com)](mailto:priscilaresantos@gmail.com)
- 
+### Sobre Mim
+<p align="center">
+:woman: Me chamo Priscila Rebouças tenho 32 anos, moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou  Desenvolvedora Sr na Stefanini alocada na Agência de Fomento do Estado da Bahia (Desenbahia). :woman_technologist:<br />
+:woman_student: Sistemas de Informação <a href="https://www.wyden.com.br/uniruy/" title="UniRuy">UniRuy.</a> <br />
+:woman_student: Engenharia Ágil de Software <a href="https://unyleya.edu.br/" title="Unyleya">Unyleya.</a> <br />
+:books: "Estudando": ASPNET Core| HTTP| RESTful APIs |Arquitetura Limpa| CQRS |EF Core |Testes Unitários | DDD | SOLID |
+</p>
+
+### - Contatos:
+<p align="center">
+  <a href="mailto:priscilaresantos@gmail.com" title="priscilaresantos@gmail.com">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="priscilaresantos@gmail.com" style="vertical-align:top;  margin:4px">
+ </a>
+  <a href="https://www.linkedin.com/in/priscila-rebou%C3%A7as/" target="_blank" title="Linkedin">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://twitter.com/Prisresantos_" target="_blank" title="Twitter">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
+  <a href="https://t.me/Priscilareboucas" target="_blank" title="Telegram">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5571988517896&text=Hello!" target="_blank" title="WhatsApp">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/whatsapp.svg" alt="WhatsApp" style="vertical-align:top; margin:4px">
+  </a> 
+</p>
+
+### - Linguagens, ferramentas que uso ou que ja usei...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/svg/dev/tools/git.svg" title="Git" alt="git" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" title="C#/.NET" alt="csharp_dotnet" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" title="Bootstrap" alt="bootstrap" style="vertical-align:top; margin:4px"> 
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" title="jQuery" alt="jquery" style="vertical-align:top; margin:4px"> 
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" title="Visual Studio" alt="visual_studio" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" title="Visual Studio Code" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
+<p align="center" >
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=PriscilaReboucas&show_icons=true&theme=radical&count_private=true"/>
+  </a>
+</p>
+
 - Obrigada pela visita. :wink:
 
 <!--
