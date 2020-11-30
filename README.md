@@ -1,13 +1,13 @@
 
-<div align="center">
-  <h2 align="center">Olá  😄</h2>
+<div align="center"> 
+  <h2 align="center">Olá, Eu sou Priscila Rebouças! :woman_technologist:</h>
 </div>
 
 <br/>
 
 ## Sobre Mim
 <p align="center">
-:woman: Me chamo Priscila Rebouças tenho 32 anos, moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou  Desenvolvedora Sr na Stefanini alocada na Agência de Fomento do Estado da Bahia (Desenbahia). :woman_technologist:<br />
+:woman: Tenho 32 anos, moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou  Desenvolvedora Sr na Stefanini alocada na Agência de Fomento do Estado da Bahia (Desenbahia). :woman_technologist:<br />
 :woman_student: Sistemas de Informação <a href="https://www.wyden.com.br/uniruy/" title="UniRuy">UniRuy.</a> <br />
 :woman_student: Engenharia Ágil de Software <a href="https://unyleya.edu.br/" title="Unyleya">Unyleya.</a> <br />
 :books: "Estudando": ASPNET Core| HTTP| RESTful APIs |Arquitetura Limpa| CQRS |EF Core |Testes Unitários | DDD | SOLID |
