@@ -33,7 +33,6 @@
 </p>
 
 ### - Linguagens, ferramentas que uso ou que ja usei...
-
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/svg/dev/tools/git.svg" title="Git" alt="git" style="vertical-align:top; margin:6px 4px">
