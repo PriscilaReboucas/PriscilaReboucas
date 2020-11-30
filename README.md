@@ -44,6 +44,8 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" title="Visual Studio Code" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+<br/>
+
 <p align="center" >
   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=PriscilaReboucas&show_icons=true&theme=radical&count_private=true"/>
