@@ -1,11 +1,11 @@
 
 <div align="center">
-  <h2 align="center">Olá  😄</h1>
+  <h2 align="center">Olá  😄</h2>
 </div>
 
 <br/>
 
-### Sobre Mim
+## Sobre Mim
 <p align="center">
 :woman: Me chamo Priscila Rebouças tenho 32 anos, moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou  Desenvolvedora Sr na Stefanini alocada na Agência de Fomento do Estado da Bahia (Desenbahia). :woman_technologist:<br />
 :woman_student: Sistemas de Informação <a href="https://www.wyden.com.br/uniruy/" title="UniRuy">UniRuy.</a> <br />
