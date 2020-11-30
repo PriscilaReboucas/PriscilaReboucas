@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <h2 align="center">Olá, Eu sou Priscila Rebouças! :woman_technologist:</h>
+  <h2 align="center">Olá, Eu sou Priscila Rebouças! :woman_technologist:</h2>
 </div>
 
 <br/>
@@ -45,12 +45,6 @@
 </p>
 
 <br/>
-
-<p align="center" >
-  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=PriscilaReboucas&show_icons=true&theme=radical&count_private=true"/>
-  </a>
-</p>
 
 - Obrigada pela visita. :wink:
 
