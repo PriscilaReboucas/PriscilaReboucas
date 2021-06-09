@@ -7,10 +7,10 @@
 
 ## Sobre Mim
 <p align="center">
-:woman: Tenho 33 anos, moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou  Desenvolvedora Backend na FieldCorp. :woman_technologist:<br />
+:woman: Tenho 33 anos, moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou  Desenvolvedora. Net na Spassus Tecnologia. :woman_technologist:<br />
 :woman_student:Graduada em Sistemas de Informação <a href="https://www.wyden.com.br/uniruy/" title="UniRuy">UniRuy.</a> <br />
 :woman_student: Pós Graduanda em Engenharia Ágil de Software <a href="https://unyleya.edu.br/" title="Unyleya">Unyleya.</a> <br />
-:books: "Estudando": ASPNET Core | HTTP | RESTful APIs | Arquitetura Limpa | CQRS | EF Core | Testes Unitários | DDD | SOLID |Swagger
+:books: "Estudando": ASPNET Core | HTTP | RESTful APIs | Arquitetura Limpa | CQRS | EF Core | Testes Unitários | DDD | SOLID | Swagger | Angular 
 </p>
 
 ### - Contatos:
