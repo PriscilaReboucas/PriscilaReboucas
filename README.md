@@ -9,7 +9,7 @@
 <p align="center">
 :woman: Tenho 36 anos, moro no Brasil, eu venho atuando com desenvolvimento .Net desde 2014 nas linguagens (vb.net e c#) e atualmente eu sou  Desenvolvedora CRM Dynamics na Avanade. :woman_technologist:<br />
 :woman_student:Graduada em Sistemas de Informação <a href="https://www.wyden.com.br/uniruy/" title="UniRuy">UniRuy.</a> <br />
-:books: "Estudando": Dynamics | PCF | RESTful APIs | Custom API| 
+:books: "Estudando": Dynamics | Power Platform | PCF | RESTful APIs | Custom API | Azure
 </p>
 
 ### - Contatos:
